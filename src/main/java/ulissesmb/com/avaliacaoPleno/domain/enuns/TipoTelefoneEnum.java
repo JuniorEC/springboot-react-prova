@@ -1,0 +1,1 @@
+package ulissesmb.com.avaliacaoPleno.domain.enuns;public enum TipoTelefoneEnum {    RESIDENCIAL, COMERCIAL, CELULAR;}

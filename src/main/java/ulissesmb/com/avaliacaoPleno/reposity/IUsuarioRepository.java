@@ -1,0 +1,1 @@
+package ulissesmb.com.avaliacaoPleno.reposity;import org.springframework.data.repository.PagingAndSortingRepository;import org.springframework.stereotype.Repository;import ulissesmb.com.avaliacaoPleno.domain.modelo.Usuario;@Repositorypublic interface IUsuarioRepository extends PagingAndSortingRepository<Usuario, Long> {    Usuario findByLogin(String login);}

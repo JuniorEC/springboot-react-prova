@@ -1,0 +1,1 @@
+package ulissesmb.com.avaliacaoPleno.modelo;public class TestMain {    public static void main(String[] args){//        BCryptPasswordEncoder senha = new BCryptPasswordEncoder();//        System.out.println(senha.encode("123456"));    }}
