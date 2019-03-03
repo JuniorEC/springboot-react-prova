@@ -1,0 +1,1 @@
+package ulissesmb.com.avaliacaoPleno.domain.enuns;/** @author Ulisses Bonfim* */public enum RoleEnum {    ROLE_USER,    ROLE_ADMIN}
