@@ -1,0 +1,1 @@
+package ulissesmb.com.avaliacaoPleno.payload;public class UsuarioValido {    private Boolean available;    public UsuarioValido(Boolean available) {        this.available = available;    }    public Boolean getAvailable() {        return available;    }    public void setAvailable(Boolean available) {        this.available = available;    }}
